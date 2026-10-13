@@ -1,5 +1,5 @@
 {
-  "version": "1.11.0",
+  "version": "1.12.1",
   "url": "https://macon.id/downloads/MacOn.dmg",
-  "notes": "Search every setting from the Settings sidebar, and a clearer message when Jev needs Macon+."
+  "notes": "Fixes the Pair a device window squashing the paired devices list in a small MacOn window."
 }
